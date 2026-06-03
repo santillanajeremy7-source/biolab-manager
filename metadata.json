@@ -1,0 +1,6 @@
+{
+  "name": "BioLab Manager",
+  "description": "Sistema de gestión y registro de prácticas de laboratorio escolar de biología.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
